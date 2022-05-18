@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "shreyas",
+      "age": "45",
+      "department": "developer"
+    },
+    {
+        "id": 2,
+        "name": "gerry chan",
+        "age": "19",
+        "department": "developer"
+    },
+    {
+        "id": 3,
+        "name": "rohan",
+        "age": "20",
+        "department": "developer"
+    }
+]
